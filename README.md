@@ -34,7 +34,7 @@ Me chamo Tiago Abreu<br/><br/>
 <p align='center'>
   <a href="https://github.com/tiagoaabreu">
   <img src="https://github-readme-stats.vercel.app/api?username=tiagoaabreu&show_icons=true&theme=prussian">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoaabreu&layout=compact&langs_count=8&theme=prussian"></a>
+  <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoaabreu&layout=compact&langs_count=8&theme=prussian"></a>
 </p>
 
 #
