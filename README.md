@@ -54,8 +54,3 @@ Me chamo Tiago Abreu💻<br/><br/>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 
-<div>
-  
-![Snake animation](https://github.com/gabrielpdev/gabrielpdev/blob/output/github-contribution-grid-snake.svg)<br></br>
-  
-</div>
