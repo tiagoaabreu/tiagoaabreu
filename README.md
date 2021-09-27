@@ -12,7 +12,7 @@ Me chamo Tiago Abreu💻<br/><br/>
 
 <br/>
 <p>→ Cursando Desenvolvimento de Sistemas.</p>
-<p>→ Estudando React e NodeJS.</p>
+<p>→ Estudando React-Native e NodeJS.</p>
 <br/>
 <p align='center'>
   <b>Linguagens</b><br/><br/>
