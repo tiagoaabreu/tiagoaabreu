@@ -1,5 +1,5 @@
 <h1 align='center'>
-Me chamo Tiago Abreu💻<br/><br/>
+Me chamo Tiago Abreu👨‍💻<br/><br/>
 </h1>
 <p> Sou estudante de Engenharia de Software pela Anhanguera, apaixonado por tecnologia e desenvolvimento. Atualmente, estou aprofundando meus conhecimentos em Flutter por meio da Alura, com foco em criar soluções inovadoras e eficientes. Apesar de estar no início da minha trajetória profissional, adquiri experiência como estagiário na Engelmig, onde atuo no suporte a atendimento interno, desenvolvendo habilidades essenciais para o mercado de TI. Estou motivado a aprender e contribuir para projetos desafiadores.
 </p>
