@@ -11,7 +11,7 @@ Me chamo Tiago Abreu👨‍💻<br/><br/>
   <a href="https://www.linkedin.com/in/tiago-narcelha-abreu/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/abreutiago20/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:tiagoabreudev@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://x.com/tigaasdev"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/twitter/twitter-original.svg"></a>
+  <a href = "https://x.com/tigaasdev"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 #
