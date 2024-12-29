@@ -5,10 +5,13 @@ Me chamo Tiago Abreu👨‍💻<br/><br/>
 </p>
 <br/>
 <p align='center'>📩Meus Contatos</p>
+
 <p align='center'>
-  <a href="https://www.linkedin.com/in/tiago-narcelha-abreu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/abreutiago20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:tiagoabreudev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  <a href="https://www.linkedin.com/in/tiago-narcelha-abreu/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/abreutiago20/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:tiagoabreudev@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "https://x.com/tigaasdev"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/twitter/twitter-original.svg"></a>
 </p>
 
 #
