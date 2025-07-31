@@ -1,7 +1,15 @@
 <h1 align="center">👨‍💻 Tiago Abreu</h1>
-
 <p align="center">
 Estudante de Engenharia de Software | Apaixonado por desenvolvimento | Explorando o mundo do Node.js e PostgreSQL 🚀
+</p>
+
+---
+
+📈 **Estatísticas do GitHub**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoaabreu&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoaabreu&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
@@ -31,6 +39,7 @@ Estou motivado a aprender e contribuir com projetos desafiadores!
   <a href="https://x.com/tigaasdev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40"/>
   </a>
+    
 </p>
 
 
@@ -39,7 +48,7 @@ Estou motivado a aprender e contribuir com projetos desafiadores!
 📚 **Atualmente estudando**
 
 - Engenharia de Software pela Anhanguera
-- Node.js, PostgreSQL e Docker na Alura
+- Node.js, PostgreSQL e PHP
 
 ---
 
@@ -76,17 +85,12 @@ Estou motivado a aprender e contribuir com projetos desafiadores!
   <a href="https://podman.io/">
     <img src="https://img.shields.io/badge/Podman-89CFF0?style=for-the-badge&logo=podman&logoColor=white" height="50"/>
   </a>
-</p>
-
-
----
-
-📈 **Estatísticas do GitHub**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoaabreu&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoaabreu&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://laravel.com/">
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="50"/>
+  </a>&nbsp;&nbsp;
 
 ---
 
@@ -118,4 +122,4 @@ Estou motivado a aprender e contribuir com projetos desafiadores!
   </a>
 </p>
 
-
+---
